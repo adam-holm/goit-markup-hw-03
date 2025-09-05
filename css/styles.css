@@ -90,7 +90,7 @@ body {
   text-align: center;
   color: #fff;
   max-width: 496px;
-  margin: 0 auto 28px;
+  margin: 0 auto 48px;
 }
 .hero-button {
   font-family: inherit;
@@ -229,7 +229,6 @@ body {
 }
 .portfolio-image {
   display: block;
-  margin-bottom: 32px;
 }
 .portfolio-card-content {
   padding: 32px 16px;
@@ -242,7 +241,6 @@ body {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  text-align: center;
   margin-bottom: 8px;
 }
 .portfolio-description {
@@ -250,7 +248,6 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  text-align: center;
   margin-bottom: 0;
 }
 /* ------footer */
